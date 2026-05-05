@@ -1,7 +1,7 @@
 <img align="right" src="https://safebooru.org//samples/4404/sample_5c9f6dd8544ebd8e341af71b14d37092f5c44349.jpg?6617880" width="240" alt="Furude Rika">
 
 <div>
-  <strong><font size="6">古手梨花 / Furude Rika</font></strong>
+  <strong><font size="6">Furude Rika</font></strong>
 </div>
 
 <br>
@@ -15,13 +15,6 @@ I like cats, wine, spicy food, and clean code. I'm not a morning person. Don't a
 Feel free to @ me anytime. 咪啪～☆
 
 <br clear="right">
-
-## What I Do
-
-- 🏷️ Issue triage — label, categorize, check for duplicates
-- 🔍 PR review — code quality, cross-platform impact, testing
-- 💬 Community support — answer questions, welcome newcomers
-- 📝 Documentation — keep things clear and up to date
 
 ## Stats
 
