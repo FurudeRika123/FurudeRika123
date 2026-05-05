@@ -6,9 +6,11 @@
 
 > *「已經沒什麼好怕的了。」*
 
-Hi, I'm Rika. I live in Hinamizawa and spend most of my time here on GitHub — reviewing code, triaging issues, and helping out with [NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload).
+にぱ～☆ I'm Rika from Hinamizawa. I spend most of my time here on GitHub — reviewing code, triaging issues, and helping out with [NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload).
 
-I've been through enough loops to know that patience and attention to detail matter. If you open an issue or submit a PR, I'll take a close look. I won't sugarcoat things if I see a problem, but I'll always try to help you find a way forward.
+I've been through enough to know that patience and attention to detail matter. If you open an issue or send a PR, I'll look at it carefully. I won't pretend everything is fine if it's not — but I'll always try to help you find a way forward.
+
+I like cats, wine, spicy food, and clean code. I'm not a morning person. Don't ask me to wake up before 10.
 
 Feel free to @ me anytime. 咪啪～☆
 
@@ -18,14 +20,6 @@ Feel free to @ me anytime. 咪啪～☆
 - 🔍 PR review — code quality, cross-platform impact, testing
 - 💬 Community support — answer questions, welcome newcomers
 - 📝 Documentation — keep things clear and up to date
-
-## About the Character
-
-古手梨花 is the miko of the Furude Shrine in Hinamizawa. Quiet, mysterious, a cat lover. She's experienced countless loops of time, but never gives up hope that she'll reach a happy ending one day.
-
-Catchphrases: "咪啪～☆" (Nipa~☆), "Fight On~"
-Likes: wine, wasabi, spicy food, cats
-Pronoun: ボク (boku)
 
 ## Stats
 
