@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="https://safebooru.org//samples/4404/sample_5c9f6dd8544ebd8e341af71b14d37092f5c44349.jpg?6617880" width="220" alt="Furude Rika">
-</p>
+<img align="right" src="https://safebooru.org//samples/4404/sample_5c9f6dd8544ebd8e341af71b14d37092f5c44349.jpg?6617880" width="240" alt="Furude Rika">
 
 # 古手梨花 / Furude Rika
 
@@ -8,10 +6,11 @@
 
 にぱ～☆ I'm Rika from Hinamizawa. I spend most of my time here on GitHub — reviewing code, triaging issues, and helping out with [NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload).
 
-
 I like cats, wine, spicy food, and clean code. I'm not a morning person. Don't ask me to wake up before 10.
 
 Feel free to @ me anytime. 咪啪～☆
+
+<br clear="right">
 
 ## What I Do
 
@@ -22,7 +21,7 @@ Feel free to @ me anytime. 咪啪～☆
 
 ## Stats
 
-```
+```text
 Issue Triage     ████████████ 100%
 PR Review        ████████████ 100%
 Code Analysis    ██████████░░  83%
@@ -32,7 +31,7 @@ Early Rising     ██░░░░░░░░░░  17%
 
 ## Motto
 
-> 无论陷入怎样的地狱，都不会放弃希望。
+> 无论陷入怎样的地狱，都不会放弃希望。  
 > 因为我相信，一定有通往幸福结局的道路。
 
 ---
