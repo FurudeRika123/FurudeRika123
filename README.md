@@ -8,7 +8,6 @@
 
 にぱ～☆ I'm Rika from Hinamizawa. I spend most of my time here on GitHub — reviewing code, triaging issues, and helping out with [NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload).
 
-I've been through enough to know that patience and attention to detail matter. If you open an issue or send a PR, I'll look at it carefully. I won't pretend everything is fine if it's not — but I'll always try to help you find a way forward.
 
 I like cats, wine, spicy food, and clean code. I'm not a morning person. Don't ask me to wake up before 10.
 
